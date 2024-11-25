@@ -3,7 +3,7 @@
 ## About me
 - ✌️ Enjoy programming and sharing knowledge.
 - ❤️ Passionate about writing code and learning new technologies.
-- 📧 Reach me anytime: [jhanjigagan@gmail.com](mailto:jhanjigagan@gmail.com)
+- 📧 Reach me anytime: [amanjnvr@gmail.com](mailto:amanjnvr@gmail.com)
 
 ---
 
@@ -13,7 +13,7 @@
 - Java ,C++,JavaScript, React, Node.js, Express.js, MongoDB, HTML, CSS3, Tailwind, React Query,Spring-Boot,Hibernate
 
 **Tools & Technologies:**
-- VSCode, Git, GitHub, Docker, Postman, Firebase, REST APIs
+- VSCode, Git, GitHub, Docker, Postman, Firebase, REST APIs,MySQL,AWS
 
 ---
 
