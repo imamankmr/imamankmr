@@ -17,14 +17,6 @@
 
 ---
 
-
-
-## My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamankmr&layout=compact&theme=radical)
-
----
-
 ## My GitHub Contribution & Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imamankmr&theme=radical)
