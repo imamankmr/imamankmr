@@ -17,11 +17,7 @@
 
 ---
 
-## My GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imamankmr&show_icons=true&hide=prs&count_private=true&theme=radical)
-
----
 
 ## My Top Languages
 
